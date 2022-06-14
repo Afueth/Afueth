@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Afueth Thomas</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"
+<img align="right" alt="Coding" width="400" src="https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif"
 
 - 🔭 I’m currently **MCA Student**
 
 - 🌱 I’m currently learning **Python**
 
-- 📝 I regularly write articles on [afueth.blogspot@gmail.com](afueth.blogspot@gmail.com)
-
 - 💬 Ask me about **Python and Linux**
 
 - 📫 How to reach me **afueth.py@gmail.com**
 
-- ⚡ Fun fact **Leaving A Life!**
+- ⚡ Fun fact **Living A Life!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
