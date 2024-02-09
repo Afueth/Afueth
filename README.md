@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python and Linux**
 
-- 📫 How to reach me **afueth.py@gmail.com**
+- 📫 How to reach me **afuethomas@gmail.com**
 
 - ⚡ Fun fact **Living A Life!**
 
