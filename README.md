@@ -2,11 +2,11 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif"
 
-- 🔭 I’m currently **MCA Student**
+- 🔭 I’m currently **System/Software Engineer**
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Python and Linux**
+- 💬 Ask me about **React , Python , VMware , GCP, MongoDB, MySQL, CSS, HTML, JavaScript**
 
 - 📫 How to reach me **afuethomas@gmail.com**
 
