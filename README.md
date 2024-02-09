@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afueth Thomas</h1>
 <h3 align="center">Systems/Software Engineer</h3>
-<img align="right" alt="Coding" width="400" src="[https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif](https://camo.githubusercontent.com/0056c89c8f2eef0afe1013a7ac007fbf5b5c5f6f18ce73ffb9db6976ef7b3fa4/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3932363533372f73637265656e73686f74732f343530323932342f707974686f6e2d322e676966)"
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif]"
 
 - 🔭 I’m currently **System/Software Engineer**
 
