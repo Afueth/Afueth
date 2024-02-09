@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afueth Thomas</h1>
 <h3 align="center">Systems/Software Engineer</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif](https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif)"
 
 
 - 🔭 I’m currently **System/Software Engineer**
