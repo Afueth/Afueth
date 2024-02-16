@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently **System/Software Engineer**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **FastAPI**
 
 - 💬 Ask me about **React , Python , VMware , GCP,  MySQL, CSS, HTML, JavaScript**
 
