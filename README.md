@@ -2,15 +2,15 @@
 <h3 align="center">Systems Engineer Custom Software Development(Research and Development)</h3>
 
 
-- 🔭 I’m currently **System/Software Engineer**
+-  I’m currently **System/Software Engineer**
 
-- 🌱 I’m currently learning **FastAPI**
+-  I’m currently learning **FastAPI**
 
-- 💬 Ask me about **React , Python , VMware , GCP,  MySQL, CSS, HTML, JavaScript**
+-  Ask me about **React , Python , VMware , GCP,  MySQL, CSS, HTML, JavaScript**
 
-- 📫 How to reach me **afuethomas@gmail.com**
+-  How to reach me **afuethomas@gmail.com**
 
-- ⚡ Fun fact **Living A Life!**
+-  Fun fact **Living A Life!**
 
 
 
