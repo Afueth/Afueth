@@ -8,7 +8,7 @@
 
 -  Ask me about **React , Python , VMware , GCP,  MySQL, CSS, HTML, JavaScript**
 
--  How to reach me **afuethomas@gmail.com**
+-  How to reach me **mail@afueth.com**
 
 -  Fun fact **Living A Life!**
 
